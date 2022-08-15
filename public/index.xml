@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>www.tcol.eu.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 11 Aug 2022 17:41:18 +0800</lastBuildDate><atom:link href="www.tcol.eu.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2022 17:41:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>www.tcol.eu.org/post/first/</link>
+      <link>http://localhost:1313/post/first/</link>
       <pubDate>Thu, 11 Aug 2022 17:41:18 +0800</pubDate>
       
-      <guid>www.tcol.eu.org/post/first/</guid>
+      <guid>http://localhost:1313/post/first/</guid>
       <description>Hello Hugo aaa bbb ccc </description>
     </item>
     
